@@ -44,3 +44,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'slack-ruby-client'
 gem 'rack-cors'
 gem 'faraday'
+gem 'bigdecimal'
